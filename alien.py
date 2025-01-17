@@ -17,7 +17,8 @@ def on_mouse_down(pos):
         alien.x = random.randint(50,550)
         alien.y = random.randint(50,450)
 
-
+def update():
+    pass
 
 
 pgzrun.go()
